@@ -1,4 +1,4 @@
-# MIDI Utils
+# Electron Webpack React Boilerplate
 
 Quick setup for electron/react development
 
